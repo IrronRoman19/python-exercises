@@ -6,6 +6,6 @@ summary = num_1 + num_2
 multiply = num_1 * num_2
 
 if multiply < 1000:
-    print (multiply)
+    print(f"Product: {num_1} * {num_2} = {multiply}")
 else:
-    print (summary)
+    print(f"Sum: {num_1} * {num_2} = {summary}")
