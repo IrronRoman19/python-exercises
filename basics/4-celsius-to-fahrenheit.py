@@ -19,6 +19,6 @@ elif c_or_f == "F":
     print(f"Temperature in Fahrenheit: {c_to_f} °F", )
     
 else:
-    print("Please choose C or F")
+    print("Invalid choice")
 
 
