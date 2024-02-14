@@ -8,4 +8,4 @@ for i in list_1:
     if i > max_result: 
         max_result = i
 
-print(max_result)
+print(f"Largest number in a list: {max_result}")
